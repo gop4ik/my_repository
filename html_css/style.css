@@ -12,6 +12,10 @@ h1{
     margin-top: 250px;
     margin-left: 250px;
 }
-
+.homework{
+    text-align: center;
+    font-size: 24px;
+    text-shadow: 7px 7px 0 rgb(0,255,127);
+}
 
 
